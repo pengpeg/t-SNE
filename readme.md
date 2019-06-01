@@ -16,4 +16,5 @@ sklearn中提供了十几种流形学习方法，结果各有好坏，t-SNE总�
 
 ![数字图像](https://github.com/pengpeg/t-SNE/blob/master/temp/digits.png)
 
-![t-SNE降维图像](.\temp\tSNE.png)
+![t-SNE降维图像](https://github.com/pengpeg/t-SNE/blob/master/temp/tSNE.png)
+
