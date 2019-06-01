@@ -14,6 +14,6 @@ sklearn中提供了十几种流形学习方法，结果各有好坏，t-SNE总�
 
 本文是一个书写数字示例代码。
 
-![数字图像](D:\py_workspace\t-SNE\temp\digits.png)
+![数字图像](.\temp\digits.png)
 
-![](D:\py_workspace\t-SNE\temp\tSNE.png)
+![t-SNE降维图像](.\temp\tSNE.png)
